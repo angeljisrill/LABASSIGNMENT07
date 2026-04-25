@@ -222,6 +222,7 @@ Good luck, and have fun creating your calculator! 🧮
 
 ---
 *Lab Assignment 07 - .NET 10.0 Windows Forms Application*
-<img width="330" height="404" alt="Screenshot 2026-04-25 134419" src="https://github.com/user-attachments/assets/ffc44e8c-8727-4004-a2e3-9b9d0b5f5a96" />
+<img width="1361" height="640" alt="Screenshot 2026-04-25 141547" src="https://github.com/user-attachments/assets/07ada5c4-7d09-4bf7-8724-a1543b2c6c9f" />
+
 
 
